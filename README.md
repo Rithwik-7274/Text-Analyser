@@ -1,6 +1,6 @@
 # Text Analyser
 
-Text Analyser that finds the number of unique words, word with the highest occurence, total sentences, average word length, sentence complexity etc. 
+A text analyser that finds the number of unique words, word with the highest occurence, total sentences, average word length, sentence complexity etc. 
 
 ## Installation 
 
